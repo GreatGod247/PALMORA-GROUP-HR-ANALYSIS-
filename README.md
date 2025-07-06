@@ -43,7 +43,7 @@ Bonus rules are defined in a separate table based on rating levels.
 
 ## 📁 Repository Structure
 
-palmoria-hr-analysis-dsa/ │ ├── data/ │  ├── raw/         # Original Excel HR dataset │  └── cleaned/       # Cleaned &transformed data │ ├── https://github.com/GreatGod247/PALMORA-GROUP-HR-ANALYSIS-/blob/main/Cleaned%20data%20view.png/ │  └── Palmoria_HR_Analysis.pbix # Main Power BI file │ ├── screenshots/ │  └── slicer-panel.png   # Slicer layout or dashboard preview │ ├── docs/ │  └── bonus_rules.xlsx   # Bonus rule table │ └── README.md
+palmoria-hr-analysis-dsa/ │ ├── data/ │  ├── raw/         # Original Excel HR dataset │  └── cleaned/       # Cleaned &transformed data │ ├── https://github.com/GreatGod247/PALMORA-GROUP-HR-ANALYSIS-/blob/main/Cleaned%20data%20view.png/ │  └── Palmoria_HR_Analysis.pbix # Main Power BI file │ ├── screenshots/ │  └── https://github.com/GreatGod247/PALMORA-GROUP-HR-ANALYSIS-/blob/main/Pbix%20Dashboard%20.png # Slicer layout or dashboard preview │ ├── docs/ │  └── bonus_rules.xlsx   # Bonus rule table │ └── README.md
 
 ---
 
