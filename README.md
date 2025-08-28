@@ -1,3 +1,7 @@
+**Name:** Oluwatobiloba Jegede  
+**GitHub Username:** GreatGod247  
+**Canvas Name:** (same as above)  
+
 # 🏢 Palmoria Group HR Analysis – DSA Capstone Project
 
 ## 📊 Overview
